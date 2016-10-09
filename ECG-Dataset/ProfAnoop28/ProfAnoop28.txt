@@ -1,0 +1,24 @@
+Prof Anoop: Age:28
+R-R:71.27     Measured over: 9.26 = delta time      and No. of beats=11
+FFT:70
+pulsemeter:71
+
+
+Fundamental Frequency:-39.2db =1.5Hz
+50 Hz : -40.0db   = 48.75Hz
+SNR:	
+
+
+===============================
+with cloth
+===============================
+
+r-r= 77.19
+fft= 76
+meter=77
+ 
+
+delta=8.55	   No. of beats=11
+
+fund. freq=1.5 Hz= -36.8db
+50Hz = 50hz = -52.0db

@@ -1,0 +1,28 @@
+Rahul Kumar Singh:21
+R-R= 87.06
+FFT=87
+Meter=87
+
+For R-R measurement: delta(t) = 0.01sec
+Time diff=8.27sec
+No. of beats=12
+
+Fundamental Frequency(1.5hz) = -20db
+50 Hz frequency=(51Hz) = -21.8db
+
+so delta amplitude= 3.20 db
+
+=========================================================================
+with cloth
+========================================================================
+R-R=difficult to find
+FFT=82
+meter=81
+
+
+======================================================================
+Analysis of FFT on the dataset-on barehand
+
+Matlab FFT on 126:2125 i.e 2000 point fft
+Course search:87.89
+fine search:81.47

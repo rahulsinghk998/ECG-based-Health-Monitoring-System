@@ -1,0 +1,24 @@
+Santosh: Age:35
+R-R:70.75     Measured over: 8.48 = delta time      and No. of beats=10
+FFT:70
+pulsemeter:70
+
+
+Fundamental Frequency:-26.4db =1.5Hz
+50 Hz : -44.0db   = 50Hz
+SNR:	
+
+
+===============================
+with cloth
+===============================
+
+r-r= 74.33
+fft= 76
+meter=75
+ 
+
+delta=8.20	   No. of beats=10
+
+fund. freq=1.5 Hz= -32.8db
+50Hz = 50hz = -31.2db
