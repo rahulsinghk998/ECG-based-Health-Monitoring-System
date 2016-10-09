@@ -1,0 +1,8 @@
+Sampling Rate:	500
+HR:		70
+Person: 	Vipin
+
+===========
+9 point avg
+============
+for i=1:1000 volt(i)=(volt(i+1)+volt(i)+volt(i+2)+volt(i+3)+volt(i+4)+volt(i+5)+volt(i+6)+volt(i+7)+volt(i+8))/9 ; plot(volt,'r'); end
