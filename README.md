@@ -1,8 +1,8 @@
 # Non-Contact-ECG
 
 
-##Presentation
-[![Video Demostration](<img src="./Pics/Demo.png">)](https://drive.google.com/open?id=0B4PtoNqc4sQOcUpPTzc2ZzNrc2c)
+##Video Demostration
+[<img src="./Pics/Demo.png">](https://drive.google.com/open?id=0B4PtoNqc4sQOcUpPTzc2ZzNrc2c)
 
 
 ##Published Papers
