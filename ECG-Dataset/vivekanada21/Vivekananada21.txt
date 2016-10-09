@@ -1,0 +1,22 @@
+Vivekananda: Age:21
+R-R:81.91     Measured over: 8.79 = delta time      and No. of beats=12
+FFT:82
+pulsemeter:83
+
+
+Fundamental Frequency:-28.8db =1.5Hz
+50 Hz : -39.2db   = 48.75Hz
+SNR:	
+
+
+===============================
+with cloth
+===============================
+
+r-r=83.33
+fft= 82
+meter=83
+
+
+fund. freq=1.5 Hz= -28.8db
+50Hz = 50hz = -28.0db

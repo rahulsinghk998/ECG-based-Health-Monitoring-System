@@ -1,0 +1,22 @@
+Tapa Brata Sen: Age:25
+R-R:94.59     Measured over: 8.88 = delta time      and No. of beats=14
+FFT:93
+pulsemeter:94
+
+
+Fundamental Frequency:-32.8db =1.5Hz
+50 Hz : -39.2db   = 48.75Hz
+SNR:	
+
+
+===============================
+with cloth
+===============================
+
+r-r=88.23
+fft= 87
+meter=88
+
+
+fund. freq=1.5 Hz= -33.6db
+50Hz = 50hz = -15.2db
