@@ -1,0 +1,26 @@
+vishwanath44
+barehand
+
+fft=82
+meter=84
+r-r= 85
+
+delta=9.15sec   beats=13
+
+1.5hz= -27.2db
+50hz= -46.4db
+
+
+========================
+cloth
+========================
+
+
+fft=82
+meter=81
+r-r= 81
+
+delta=9.59sec   beats=13
+
+1.5hz= -32.0db
+50hz= -36.8db
