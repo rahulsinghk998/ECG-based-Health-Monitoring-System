@@ -6,6 +6,6 @@
 
 
 ##Published Papers
-*[A real-time heart-rate monitor using non-contact electrocardiogram for automotive drivers](http://ieeexplore.ieee.org/document/7413795/?arnumber=7413795)
-*[A health monitoring system using multiple non-contact ECG sensors for automotive drivers](http://ieeexplore.ieee.org/document/7520539/?arnumber=7520539&tag=1)
+* [A real-time heart-rate monitor using non-contact electrocardiogram for automotive drivers](http://ieeexplore.ieee.org/document/7413795/?arnumber=7413795)
+* [A health monitoring system using multiple non-contact ECG sensors for automotive drivers](http://ieeexplore.ieee.org/document/7520539/?arnumber=7520539&tag=1)
 
